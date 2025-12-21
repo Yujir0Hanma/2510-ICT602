@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040616442194",
+    "project_id": "ict602-carry-mark-a5978",
+    "storage_bucket": "ict602-carry-mark-a5978.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040616442194:android:27759d2af1d610f76b128b",
+        "android_client_info": {
+          "package_name": "com.example.ict602_carry_mark"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEN3IB_4uKgTB698HTO9V3lWTx8oGBU1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
