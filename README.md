@@ -1,3 +1,4 @@
+video presentation: https://youtu.be/Dvpl7JbfqP8
 2510-ICT602
 
 20% Lab Assignment
